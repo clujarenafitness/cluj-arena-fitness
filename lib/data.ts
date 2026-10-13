@@ -206,11 +206,7 @@ export const FAQS: FAQItem[] = [
     answer:
       "Ne concentrăm exclusiv pe Fitness & Bodybuilding: hipertrofie, powerlifting, forță și recompoziție corporală, ghidate de antrenori specializați în culturism.",
   },
-  {
-    question: "Pot testa sala înainte de abonament?",
-    answer:
-      "Da, oferim o evaluare inițială gratuită și o sesiune de probă pentru orice membru nou.",
-  },
+ 
   {
     question: "Aveți antrenori personali?",
     answer:
