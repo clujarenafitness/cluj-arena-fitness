@@ -206,7 +206,6 @@ export const FAQS: FAQItem[] = [
     answer:
       "Ne concentrăm exclusiv pe Fitness & Bodybuilding: hipertrofie, powerlifting, forță și recompoziție corporală, ghidate de antrenori specializați în culturism.",
   },
- 
   {
     question: "Aveți antrenori personali?",
     answer:
